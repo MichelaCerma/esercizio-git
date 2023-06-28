@@ -1,4 +1,4 @@
 git:
 	git add .
-	git commit -m "prova"
+	git commit -m "$m"
 	git push
