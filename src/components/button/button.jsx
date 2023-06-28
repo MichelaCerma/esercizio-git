@@ -43,7 +43,9 @@ const Button = () => {
           fill="#e1f5fe"
         ></path>
       </svg>
-      <span class="now">now!</span>
+      <span class="now">
+        <a href="https://store.epicgames.com/it/p/among-us">now</a>
+      </span>
       <span class="play">play</span>
     </button>
   );
